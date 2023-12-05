@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 378998663}
   - component: {fileID: 378998662}
   m_Layer: 5
-  m_Name: Wizard
+  m_Name: Wizard Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 461065519}
   - component: {fileID: 461065518}
   m_Layer: 5
-  m_Name: PlayButton
+  m_Name: ' Play button'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -423,7 +423,7 @@ GameObject:
   - component: {fileID: 1158744204}
   - component: {fileID: 1158744203}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Play Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -557,7 +557,7 @@ GameObject:
   - component: {fileID: 1162124118}
   - component: {fileID: 1162124117}
   m_Layer: 5
-  m_Name: Title
+  m_Name: Title text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -759,7 +759,7 @@ GameObject:
   - component: {fileID: 2083739063}
   - component: {fileID: 2083739062}
   m_Layer: 5
-  m_Name: Background
+  m_Name: Background Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

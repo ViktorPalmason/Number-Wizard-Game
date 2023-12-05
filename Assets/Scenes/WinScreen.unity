@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 8088481}
   - component: {fileID: 8088480}
   m_Layer: 5
-  m_Name: PlayAgainButton
+  m_Name: Play Again Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -324,7 +324,7 @@ GameObject:
   - component: {fileID: 1432286947}
   - component: {fileID: 1432286946}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Play Again Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
