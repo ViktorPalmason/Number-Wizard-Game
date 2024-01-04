@@ -823,7 +823,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   max: 1000
   min: 1
-  GuessText: {fileID: 293281557}
+  guessText: {fileID: 293281557}
 --- !u!1 &1295389413
 GameObject:
   m_ObjectHideFlags: 0

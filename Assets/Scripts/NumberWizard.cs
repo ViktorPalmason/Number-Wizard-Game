@@ -15,22 +15,26 @@ public class NumberWizard : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        guess = (max+min)/2;
-        max++;
-        guessText.text = guess.ToString();
+        NextGuess();
     }
 
     public void OnPressHigher()
     {
-        min = guess;
-        guess = (max + min) / 2; 
-        guessText.text = guess.ToString();
+        min = guess+1;
+        NextGuess();
     }
 
     public void OnPressLower()
     {
-        max = guess;
-        guess = (guess + min) / 2;
+        max = guess-1;
+
+        NextGuess();
+    }
+
+    private void NextGuess()
+    {
+        //guess = (guess + min) / 2;
+        guess = Random.Range(min, max+1);
         guessText.text = guess.ToString();
     }
 }
